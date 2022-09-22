@@ -6,4 +6,4 @@ I went through and tried to replace all the div elements with semantic HTML elem
 ## Screenshot
 ![Homework](./assets/images/Homework-1top.png)
 ![Homework](./assets/images/Homework-1bottom.png)
-## Link 
+## Link https://phillipanthony11.github.io/Week-1-homework/
